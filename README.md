@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Subject :
 Chuyên đề PyThon
 Chuyên đề Python cung cấp kiến thức nền tảng về lập trình Python, bao gồm:
 
